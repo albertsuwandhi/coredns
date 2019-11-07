@@ -1,0 +1,4 @@
+lab.local.         IN  SOA dns.lab.local. albertsuwandhi.lab.local. 2015082541 7200 3600 1209600 3600
+master.lab.local.  IN  A	 192.168.100.100
+worker1.lab.local. IN  A	 192.168.100.1
+worker2.lab.local. IN  A	 192.168.100.2
